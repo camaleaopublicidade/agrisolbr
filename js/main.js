@@ -13,7 +13,7 @@ function detectLanguage() {
   return match || defaultLang;
 }
 function setLanguage(lang) {
-  fetch(`/lang/${lang}.json`)
+  fetch(`../lang/${lang}.json`)
     .then(res => res.json())
     .then(data => {
       document.querySelectorAll("[data-i18n]").forEach(el => {
