@@ -1,14 +1,122 @@
 {
-  "title": "欢迎来到 Agrisol BR 集团",
-  "welcome": "欢迎",
-  "welcome-to-agrisol": "欢迎来到Agrisol BR集团",
-  "description": "准备好以平衡、可持续性、创新、道德和社会责任服务国内外客户！",
-  "mining": "矿业",
-  "call-whatsapp": "通过WhatsApp联系",
-  "send-email": "发送电子邮件",
-  "About":"关于", 
-  "Products":"产品", 
-  "Services":"服务", 
-  "Contact":"联系", 
-  "Webmail":"Webmail"
+  "metadata": {
+    "title": "欢迎来到Agrisol BR集团",
+    "description": "以平衡、可持续、创新、道德和社会责任为宗旨，随时为国内外客户服务！",
+    "keywords": "矿业公司, 石材, 矿石, 矿工"
+  },
+  "header": {
+    "about": "关于我们",
+    "products": "产品",
+    "services": "服务",
+    "contact": "联系我们",
+    "webmail": "企业邮箱"
+  },
+  "hero": {
+    "mining": "矿业公司",
+    "welcome": "欢迎来到Agrisol BR集团",
+    "description": "以平衡、可持续、创新、道德和社会责任为宗旨，随时为国内外客户服务！",
+    "call_whatsapp": "WhatsApp联系",
+    "send_email": "发送邮件",
+    "seal": "印章"
+  },
+  "mission": {
+    "heading": "矿业公司",
+    "subheading": "巴西东北部最具活力的矿业公司！",
+    "mission": "使命",
+    "mission_text": "以可持续方式提供矿产资源，促进经济和社会发展，同时尊重环境和当地社区。",
+    "vision": "愿景",
+    "vision_text": "成为负责任采矿的全球标杆，以卓越运营和持续创新而闻名。",
+    "values": "价值观",
+    "values_text": "通过矿产勘探促进地区和州发展，同时尊重环境和当地社区。"
+  },
+  "about": {
+    "title": "关于我们",
+    "text_1": "Agrisol BR集团拥有30年经验，是矿业领域的标杆企业，以负责任、创新和致力于区域发展的态度开展业务。公司总部位于巴西东北部，以可持续方式提供矿产资源，尊重环境并重视当地社区。",
+    "text_2": "Agrisol BR的业务不仅限于采矿。集团还涉足陶瓷、民用建筑和砂石开采领域，始终保持对质量和运营卓越的承诺。我们的产品如锰、铁、铜、方解石、方铅矿、铝土矿和锂均获得多项认证，服务国内外客户。"
+  },
+  "products": {
+    "heading": "矿物、产品和服务",
+    "subheading": "破碎、研磨和精选矿物。",
+    "manganese": "锰矿",
+    "manganese_desc": "锰(Mn)是一种浅灰色金属，不以纯元素形式存在，而是与氧、硫和氯等其他物质结合。",
+    "copper": "铜矿",
+    "copper_desc": "铜是原子序数为29的金属元素，呈明亮的红褐色，常温下为固体，具有优异的导电导热性能。",
+    "iron": "铁矿",
+    "iron_desc": "铁矿石是可经济地提取金属铁的岩石。铁通常以氧化物形式存在，如磁铁矿、赤铁矿，或以碳酸盐形式存在如菱铁矿。",
+    "calcite": "方解石",
+    "calcite_desc": "方解石是最常见的碳酸盐矿物，几乎存在于所有类型的沉积物和岩石中，在这些岩石中作为原生或次生矿物存在。",
+    "galena": "方铅矿",
+    "galena_desc": "方铅矿是原生铅矿石，主要用于制造铅酸电池，也大量用于制作铅板和铅弹。",
+    "bauxite": "铝土矿",
+    "bauxite_desc": "铝土矿是一种富含铝的矿石，是生产铝金属的主要来源。它是一种红褐色岩石，由铝氧化物、铝氢氧化物和其他矿物组成。",
+    "lithium": "锂矿",
+    "lithium_desc": "锂是碱金属族的化学元素，是周期表中最小的金属原子，比锂更小的只有氢和氦这两种气体。",
+    "ceramic_block": "陶瓷空心砖(8孔)",
+    "ceramic_block_desc": "陶瓷砌块，又称巴伊亚砖，是用于建造墙壁、围栏和其他砌体结构的建筑材料。",
+    "sand": "砂石",
+    "sand_desc": "砂主要由岩石和矿物组成，主要是石英(二氧化硅SiO2)，根据来源岩石成分不同，还可能含有长石、云母、锆石、磁铁矿、钛铁矿、独居石、锡石等其他矿物。",
+    "buy_cta": "我要购买 →"
+  },
+  "services": {
+    "title": "服务",
+    "description": "联系我们了解更多产品和服务信息。",
+    "call_whatsapp": "WhatsApp联系",
+    "send_email": "发送邮件",
+    "see_more": "查看更多",
+    "areas": "业务领域：",
+    "ceramics": "AGRISOL BR陶瓷",
+    "ceramics_desc": "8孔陶瓷砌块，量大质优。",
+    "sand_pit": "AGRISOL BR砂场",
+    "sand_pit_desc": "优质硅砂，欢迎询价！",
+    "construction": "AGRISOL BR建筑",
+    "construction_desc": "随时服务，欢迎询价！",
+    "services": "AGRISOL BR服务",
+    "services_desc": "随时服务，欢迎询价！"
+  },
+  "sustainability": {
+    "title": "可持续发展",
+    "description": "致力于为后代保护环境的实践。"
+  },
+  "footer": {
+    "contact": "联系我们",
+    "phone": "+55 71 99649-1926",
+    "email": "agrisolbr@agrisolbr.com",
+    "products": "产品",
+    "address": "地址",
+    "address_text": "巴西巴伊亚州SENTO SÉ Quixaba社区 47350-000",
+    "where_we_operate": "运营地区",
+    "whatsapp_cta": "WhatsApp联系"
+  },
+  "alt_texts": {
+    "logo": "Agrisol BR集团标志",
+    "mission_icon": "使命图标",
+    "vision_icon": "愿景图标",
+    "values_icon": "价值观图标",
+    "call_icon": "电话图标",
+    "whatsapp_icon": "WhatsApp图标",
+    "email_icon": "邮件图标",
+    "leaf_icon": "树叶图标",
+    "arrow_icon": "箭头图标",
+    "instagram_icon": "Instagram图标",
+    "linkedin_icon": "领英图标",
+    "scroll_up": "向上滚动",
+    "agrisol_word": "Agrisol文字",
+    "manganese_img": "锰矿图片",
+    "copper_img": "铜矿图片",
+    "iron_img": "铁矿图片",
+    "calcite_img": "方解石图片",
+    "galena_img": "方铅矿图片",
+    "bauxite_img": "铝土矿图片",
+    "lithium_img": "锂矿图片",
+    "ceramic_block_img": "陶瓷砖图片",
+    "sand_img": "砂石图片"
+  },
+  "flags": {
+    "pt-BR": "🇧🇷 葡萄牙语",
+    "en": "🇺🇸 英语",
+    "es": "🇪🇸 西班牙语",
+    "fr": "🇫🇷 法语",
+    "zh": "🇨🇳 中文",
+    "hi": "🇮🇳 印地语"
+  }
 }

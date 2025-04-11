@@ -1,16 +1,122 @@
 {
-  "title": "Welcome to Agrisol BR Group",
-  "welcome": "Welcome",
-  "welcome-to-agrisol": "Welcome to the Agrisol BR Group",
-  "description": "Ready to serve national and international clients with Balance, Sustainability, Innovation, Ethics, and Social Responsibility!",
-  "mining": "Mining",
-  "call-whatsapp": "Call on WhatsApp",
-  "send-email": "Send Email",
-  "About":"Sobre", 
-  "Products":"Products", 
-  "Services":"Services", 
-  "Contact":"Contact", 
-  "Webmail":"Webmail"
+  "metadata": {
+    "title": "Welcome to Agrisol BR Group",
+    "description": "Ready to serve national and international customers with Balance, Sustainability, Innovation, Ethics and Social Responsibility!",
+    "keywords": "mining company, stone, stones, miners"
+  },
+  "header": {
+    "about": "About",
+    "products": "Products",
+    "services": "Services",
+    "contact": "Contact",
+    "webmail": "Webmail"
+  },
+  "hero": {
+    "mining": "Mining",
+    "welcome": "Welcome to Agrisol BR Group",
+    "description": "Ready to serve national and international customers with Balance, Sustainability, Innovation, Ethics and Social Responsibility!",
+    "call_whatsapp": "Call on WhatsApp",
+    "send_email": "Send Email",
+    "seal": "Seal"
+  },
+  "mission": {
+    "heading": "Mining Company",
+    "subheading": "The most vibrant mining company in Brazil's Northeast!",
+    "mission": "Mission",
+    "mission_text": "To provide mineral resources in a sustainable way, contributing to economic and social development, while respecting the environment and local communities.",
+    "vision": "Vision",
+    "vision_text": "To be a global reference in responsible mining, recognized for operational excellence and continuous innovation.",
+    "values": "Values",
+    "values_text": "To promote regional and state development through mineral exploration, respecting the environment and local communities."
+  },
+  "about": {
+    "title": "About",
+    "text_1": "With 30 years of experience, Grupo Agrisol BR is a reference in the mining sector, acting with responsibility, innovation and commitment to regional development. Headquartered in the Brazilian Northeast, the company provides mineral resources sustainably, respecting the environment and valuing local communities.",
+    "text_2": "Agrisol BR goes beyond mining. The group also operates in the ceramics, civil construction and sand extraction segments, always maintaining its commitment to quality and operational excellence. With various certifications, our products such as manganese, iron, copper, calcite, galena, bauxite and lithium serve national and international customers."
+  },
+  "products": {
+    "heading": "Minerals, Products and Services",
+    "subheading": "Crushed, ground and selected minerals.",
+    "manganese": "Manganese",
+    "manganese_desc": "Manganese (Mn) is a light gray metal that does not occur in pure (elemental) form, but combined with other substances such as oxygen, sulfur and chlorine.",
+    "copper": "Copper",
+    "copper_desc": "Copper is a metallic element with atomic number 29. It has a shiny reddish color and is solid at room temperature. It has excellent ability to conduct electricity and heat.",
+    "iron": "Iron",
+    "iron_desc": "Iron ores are rocks from which metallic iron can be economically obtained. Iron is generally found in the form of oxides, such as magnetite and hematite, or as a carbonate, siderite.",
+    "calcite": "Calcite",
+    "calcite_desc": "Calcite is the most common carbonate, it can occur in practically all types of sediments and rocks, in the latter either as a primary or secondary mineral.",
+    "galena": "Galena",
+    "galena_desc": "Galena is the primary lead ore that is mainly used in the manufacture of lead-acid batteries. However, significant amounts are also used to make lead sheets and shot.",
+    "bauxite": "Bauxite",
+    "bauxite_desc": "Bauxite is an aluminum-rich ore, being the main source of metal production. It is a reddish rock, formed by aluminum oxides, aluminum hydroxides, and other minerals.",
+    "lithium": "Lithium",
+    "lithium_desc": "Lithium is a chemical element from the group of alkali metals. It is the smallest and lightest atom, not only among the alkalis but also among all metals in the periodic table. Smaller than lithium, there are only hydrogen and helium, which are gases.",
+    "ceramic_block": "Ceramic Block 8 Holes",
+    "ceramic_block_desc": "The ceramic block, also known as Bahian brick, is a construction material used for building walls, fences and other masonry structures.",
+    "sand": "Sand",
+    "sand_desc": "Sand is composed of rocks and minerals, mainly quartz (silicon dioxide, SiO2), but depending on the composition of the rock from which it originates, it can aggregate other minerals such as: feldspar, mica, zircon, magnetite, ilmenite, monazite, cassiterite, among others.",
+    "buy_cta": "I want to buy →"
+  },
+  "services": {
+    "title": "Services",
+    "description": "Contact us to learn more about our products and services.",
+    "call_whatsapp": "Call on WhatsApp",
+    "send_email": "Send Email",
+    "see_more": "See more",
+    "areas": "Areas of operation:",
+    "ceramics": "AGRISOL BR Ceramics",
+    "ceramics_desc": "Ceramic Blocks 8 holes, in quantity and with quality.",
+    "sand_pit": "AGRISOL BR Sand Pit",
+    "sand_pit_desc": "High quality silica sand, request a quote!",
+    "construction": "AGRISOL BR Construction",
+    "construction_desc": "Ready to serve, request a quote!",
+    "services": "AGRISOL BR Services",
+    "services_desc": "Ready to serve, request a quote!"
+  },
+  "sustainability": {
+    "title": "Sustainability",
+    "description": "Commitment to practices that preserve the environment for future generations."
+  },
+  "footer": {
+    "contact": "Contact",
+    "phone": "+55 71 99649-1926",
+    "email": "agrisolbr@agrisolbr.com",
+    "products": "Products",
+    "address": "Address",
+    "address_text": "Quixaba Community, Bahia SENTO SÉ 47350-000, BR",
+    "where_we_operate": "Where We Operate",
+    "whatsapp_cta": "Call WhatsApp"
+  },
+  "alt_texts": {
+    "logo": "Agrisol BR Group Logo",
+    "mission_icon": "Mission icon",
+    "vision_icon": "Vision icon",
+    "values_icon": "Values icon",
+    "call_icon": "Call icon",
+    "whatsapp_icon": "WhatsApp icon",
+    "email_icon": "Email icon",
+    "leaf_icon": "Leaf icon",
+    "arrow_icon": "Arrow icon",
+    "instagram_icon": "Instagram icon",
+    "linkedin_icon": "LinkedIn icon",
+    "scroll_up": "Scroll up",
+    "agrisol_word": "Agrisol word",
+    "manganese_img": "Manganese image",
+    "copper_img": "Copper image",
+    "iron_img": "Iron image",
+    "calcite_img": "Calcite image",
+    "galena_img": "Galena image",
+    "bauxite_img": "Bauxite image",
+    "lithium_img": "Lithium image",
+    "ceramic_block_img": "Ceramic block image",
+    "sand_img": "Sand image"
+  },
+  "flags": {
+    "pt": "🇧🇷 Portuguese",
+    "en": "🇺🇸 English",
+    "es": "🇪🇸 Spanish",
+    "fr": "🇫🇷 French",
+    "zh": "🇨🇳 Chinese",
+    "hi": "🇮🇳 Hindi"
+  }
 }
-
-

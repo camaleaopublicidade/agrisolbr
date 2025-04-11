@@ -1,16 +1,122 @@
 {
-  "title": "Bienvenue chez Agrisol BR Group",
-  "welcome": "Bienvenue",
-  "welcome-to-agrisol": "Bienvenue dans le Groupe Agrisol BR",
-  "description": "Prêt à servir des clients nationaux et internationaux avec Équilibre, Durabilité, Innovation, Éthique et Responsabilité Sociale.",
-  "mining": "Exploitation minière",
-  "call-whatsapp": "Appeler sur WhatsApp",
-  "send-email": "Envoyer un email",
-  "About":"À propos", 
-  "Products":"Produits", 
-  "Services":"Services", 
-  "Contact":"Contact", 
-  "Webmail":"Webmail"
+  "metadata": {
+    "title": "Bienvenue chez Groupe Agrisol BR",
+    "description": "Prêt à servir les clients nationaux et internationaux avec Équilibre, Durabilité, Innovation, Éthique et Responsabilité Sociale !",
+    "keywords": "entreprise minière, pierre, pierres, mineurs"
+  },
+  "header": {
+    "about": "À propos",
+    "products": "Produits",
+    "services": "Services",
+    "contact": "Contact",
+    "webmail": "Webmail"
+  },
+  "hero": {
+    "mining": "Entreprise minière",
+    "welcome": "Bienvenue chez Groupe Agrisol BR",
+    "description": "Prêt à servir les clients nationaux et internationaux avec Équilibre, Durabilité, Innovation, Éthique et Responsabilité Sociale !",
+    "call_whatsapp": "Appeler sur WhatsApp",
+    "send_email": "Envoyer un email",
+    "seal": "Sceau"
+  },
+  "mission": {
+    "heading": "Entreprise minière",
+    "subheading": "L'entreprise minière la plus dynamique du Nord-Est brésilien !",
+    "mission": "Mission",
+    "mission_text": "Fournir des ressources minérales de manière durable, contribuant au développement économique et social, tout en respectant l'environnement et les communautés locales.",
+    "vision": "Vision",
+    "vision_text": "Être une référence mondiale dans l'exploitation minière responsable, reconnue pour l'excellence opérationnelle et l'innovation continue.",
+    "values": "Valeurs",
+    "values_text": "Promouvoir le développement régional et national par l'exploitation minière, dans le respect de l'environnement et des communautés locales."
+  },
+  "about": {
+    "title": "À propos",
+    "text_1": "Avec 30 ans d'expérience, le Groupe Agrisol BR est une référence dans le secteur minier, agissant avec responsabilité, innovation et engagement envers le développement régional. Basé dans le Nord-Est brésilien, l'entreprise fournit des ressources minérales de manière durable, respectant l'environnement et valorisant les communautés locales.",
+    "text_2": "Agrisol BR va au-delà de l'exploitation minière. Le groupe est également actif dans les segments de la céramique, de la construction civile et de l'extraction de sable, tout en maintenant son engagement envers la qualité et l'excellence opérationnelle. Avec diverses certifications, nos produits comme le manganèse, le fer, le cuivre, la calcite, la galène, la bauxite et le lithium servent des clients nationaux et internationaux."
+  },
+  "products": {
+    "heading": "Minerais, Produits et Services",
+    "subheading": "Minerais concassés, moulus et sélectionnés.",
+    "manganese": "Manganèse",
+    "manganese_desc": "Le manganèse (Mn) est un métal gris clair qui ne se trouve pas à l'état pur (élémentaire), mais combiné avec d'autres substances comme l'oxygène, le soufre et le chlore.",
+    "copper": "Cuivre",
+    "copper_desc": "Le cuivre est un élément métallique de numéro atomique 29. Il a une couleur rougeâtre brillante et est solide à température ambiante. Il possède une excellente capacité à conduire l'électricité et la chaleur.",
+    "iron": "Fer",
+    "iron_desc": "Les minerais de fer sont des roches à partir desquelles on peut obtenir du fer métallique de manière économiquement viable. Le fer se trouve généralement sous forme d'oxydes, comme la magnétite et l'hématite, ou comme carbonate, la sidérite.",
+    "calcite": "Calcite",
+    "calcite_desc": "La calcite est le carbonate le plus courant, elle peut se trouver dans pratiquement tous les types de sédiments et roches, dans ces derniers comme minéral primaire ou secondaire.",
+    "galena": "Galène",
+    "galena_desc": "La galène est le principal minerai de plomb utilisé principalement dans la fabrication de batteries plomb-acide. Cependant, des quantités importantes sont également utilisées pour fabriquer des feuilles et des projectiles en plomb.",
+    "bauxite": "Bauxite",
+    "bauxite_desc": "La bauxite est un minerai riche en aluminium, principale source de production du métal. C'est une roche rougeâtre, formée d'oxydes d'aluminium, d'hydroxydes d'aluminium et d'autres minéraux.",
+    "lithium": "Lithium",
+    "lithium_desc": "Le lithium est un élément chimique du groupe des métaux alcalins. C'est l'atome le plus petit et le plus léger, non seulement parmi les alcalins mais aussi parmi tous les métaux du tableau périodique. Plus petits que le lithium, il n'y a que l'hydrogène et l'hélium, qui sont des gaz.",
+    "ceramic_block": "Bloc Céramique 8 Trous",
+    "ceramic_block_desc": "Le bloc céramique, également connu sous le nom de brique bahianaise, est un matériau de construction utilisé pour bâtir des murs, des clôtures et d'autres structures en maçonnerie.",
+    "sand": "Sable",
+    "sand_desc": "Le sable est composé de roches et de minéraux, principalement de quartz (dioxyde de silicium, SiO2), mais selon la composition de la roche dont il provient, il peut contenir d'autres minéraux comme : feldspath, mica, zircon, magnétite, ilménite, monazite, cassitérite, entre autres.",
+    "buy_cta": "Je veux acheter →"
+  },
+  "services": {
+    "title": "Services",
+    "description": "Contactez-nous pour en savoir plus sur nos produits et services.",
+    "call_whatsapp": "Appeler sur WhatsApp",
+    "send_email": "Envoyer un email",
+    "see_more": "Voir plus",
+    "areas": "Domaines d'activité :",
+    "ceramics": "Céramique AGRISOL BR",
+    "ceramics_desc": "Blocs Céramiques 8 trous, en quantité et avec qualité.",
+    "sand_pit": "Sablière AGRISOL BR",
+    "sand_pit_desc": "Sable siliceux de haute qualité, demandez un devis !",
+    "construction": "Bâtiment AGRISOL BR",
+    "construction_desc": "Prêts à servir, demandez un devis !",
+    "services": "Services AGRISOL BR",
+    "services_desc": "Prêts à servir, demandez un devis !"
+  },
+  "sustainability": {
+    "title": "Durabilité",
+    "description": "Engagement envers des pratiques qui préservent l'environnement pour les générations futures."
+  },
+  "footer": {
+    "contact": "Contact",
+    "phone": "+55 71 99649-1926",
+    "email": "agrisolbr@agrisolbr.com",
+    "products": "Produits",
+    "address": "Adresse",
+    "address_text": "Communauté Quixaba, Bahia SENTO SÉ 47350-000, BR",
+    "where_we_operate": "Où nous opérons",
+    "whatsapp_cta": "Appeler WhatsApp"
+  },
+  "alt_texts": {
+    "logo": "Logo Groupe Agrisol BR",
+    "mission_icon": "Icône de mission",
+    "vision_icon": "Icône de vision",
+    "values_icon": "Icône de valeurs",
+    "call_icon": "Icône d'appel",
+    "whatsapp_icon": "Icône WhatsApp",
+    "email_icon": "Icône email",
+    "leaf_icon": "Icône de feuille",
+    "arrow_icon": "Icône de flèche",
+    "instagram_icon": "Icône Instagram",
+    "linkedin_icon": "Icône LinkedIn",
+    "scroll_up": "Défiler vers le haut",
+    "agrisol_word": "Mot Agrisol",
+    "manganese_img": "Image de manganèse",
+    "copper_img": "Image de cuivre",
+    "iron_img": "Image de fer",
+    "calcite_img": "Image de calcite",
+    "galena_img": "Image de galène",
+    "bauxite_img": "Image de bauxite",
+    "lithium_img": "Image de lithium",
+    "ceramic_block_img": "Image de bloc céramique",
+    "sand_img": "Image de sable"
+  },
+  "flags": {
+    "pt-BR": "🇧🇷 Portugais",
+    "en": "🇺🇸 Anglais",
+    "es": "🇪🇸 Espagnol",
+    "fr": "🇫🇷 Français",
+    "zh": "🇨🇳 Chinois",
+    "hi": "🇮🇳 Hindi"
+  }
 }
-
-
